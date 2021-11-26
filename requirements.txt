@@ -1,5 +1,5 @@
-colorama>=0.4.4
-discord.py>=1.5.1
+colorama>=3.0
+discord.py>=1.1.0
 pyinstaller
 pynput
 pyarmor
